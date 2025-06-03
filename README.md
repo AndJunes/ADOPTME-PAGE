@@ -1,2 +1,2 @@
 # ADOPTME-PAGE
-ADOPTME-PAGE es una plataforma dedicada a conectar perros y gatos en situación de refugio
+ADOPTME-PAGE es una plataforma dedicada a conectar perros y gatos en situación de refugio con personas que buscan darles un hogar lleno de amor. Nuestro objetivo es facilitar la adopción responsable, visibilizando animales rescatados que esperan una segunda oportunidad. A través de una interfaz amigable, podrás conocer sus historias, características y contactar directamente con el refugio. ¡Adoptar salva vidas!
